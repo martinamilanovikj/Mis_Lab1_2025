@@ -1,16 +1,16 @@
 # lab1
 
-A new Flutter project.
+Апликација за распоред на испити.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Home Screen
+![HomeScreen](screenshots/home_screen.jpg)
+![HomeScreen](screenshots/home_screen2.jpg)
+![Example](screenshots/example1.jpg)
+![Example](screenshots/example2.jpg)
+![Example](screenshots/example3.jpg)
+![Example](screenshots/example4.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
